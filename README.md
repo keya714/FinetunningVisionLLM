@@ -85,14 +85,3 @@ dataset = load_dataset("unsloth/Radiology_mini", split="train")
 - Deploy the model via Streamlit or FastAPI  
 
 ---
-
-## 🧑‍💻 Author
-
-**Your Name**  
-📫 [LinkedIn](https://www.linkedin.com/in/your-linkedin) | [GitHub](https://github.com/your-username)
-
----
-
-## 📜 License
-
-This project is open source under the [MIT License](LICENSE).
